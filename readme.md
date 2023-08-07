@@ -19,5 +19,5 @@ cd home_director
 python main.py
 ```
 
-## memo
-1.
+## reference
+1.[Reliability-based modeling of typhoon induced wind vulnerability for residential buildings in Japan](https://www.sciencedirect.com/science/article/abs/pii/S016761051300250X)
